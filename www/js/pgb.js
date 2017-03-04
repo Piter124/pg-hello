@@ -20,3 +20,11 @@ function deviceInfo() {
 	navigator.notification.alert(info);
 	
 }
+
+function AboutInfo() {
+
+	info =  'Siema, I am Piter :P ' + '\n' 
+
+	navigator.notification.alert(info);
+	
+}
